@@ -1,0 +1,85 @@
+.plan {
+    background-color: #FF764E;
+    border-radius: 10px;
+    padding: 15px;
+    width: 15%;
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 5%;
+}
+.learn {
+    background-color: #5ED3EB;
+    border-radius: 10px;
+    padding: 15px;
+    width: 15%;
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 5%;
+}
+.involved {
+    background-color: #FFCD69;
+    border-radius: 10px;
+    padding: 15px;
+    width: 15%;
+    display: inline-block;
+    color: white;
+    font-size: 16px;
+    border: none;
+    margin: 5%;
+}
+body {
+    font-family: 'Roboto Mono', monospace;
+    padding: 5% 15% 5% 15%;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    text-align: center;
+    font-size: 36px;
+}
+.headertext p {
+    text-align: center;
+}
+.maintextbody {
+    background-color: #DDB9A3;
+    padding: 10px;
+    margin: 6%;
+    text-align: center;
+}
+#flames {
+    height: 150px;
+}
+.flamesection {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+}
+#rv {
+    height: 150px;
+}
+.rvsection {
+    text-align: center;
+    width: 35%;
+    margin: auto;
+}
+.footertext {
+    background-color: #F9E7DC;
+    padding: 20px;
+}
+#headerimg {
+    margin: 5px;
+    border-radius: 50%;
+    float: left;
+    width: 180px;
+}
+#footerimg {
+    margin: 0;
+    width: 100%;
+    height: 180px;
+}
+nav {
+    text-align: center;
+}
